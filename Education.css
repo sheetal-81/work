@@ -1,0 +1,100 @@
+body
+{
+    background-color: black;
+    
+}
+a
+{
+    text-decoration: none;
+    margin-left: 110px;
+    font-size: 32px;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.line1
+{
+    border-left:8px solid white;
+    margin-left:700px;
+    height:600px;
+}
+.sant
+{
+    border:2px solid white;
+    width: 180px;
+    position: absolute;
+    top:450px;
+    margin-left: 700px;
+}
+.thomas
+{
+    border:2px solid white;
+    width: 180px;
+    position: absolute;
+    top:225px;
+    margin-left: 520px;
+}
+.john
+{
+    border:2px solid white;
+    width: 180px;
+    position: absolute;
+    top:700px;
+    margin-left: 520px;
+}
+#sant
+{
+    position: absolute;
+    top:350px;
+    margin-left: 770px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    color: rgb(12, 11, 11);
+    font-size: 20px;
+    padding: 20px;
+    width: 200px;
+    height:150px;
+}
+#thomas
+{
+    position: absolute;
+    top:120px;
+    margin-left:380px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    color: rgb(5, 5, 5);
+    font-size: 20px;
+    padding: 20px;
+    width:200px;
+    height:150px;
+}
+#john
+{
+    position: absolute;
+    top:620px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    color: rgb(13, 13, 13);
+    margin-left: 380px;
+    padding: 20px;
+    width:200px;
+    height:150px;
+}
+.light
+{
+    color: rgb(7, 7, 7);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.color
+{
+    color: rgb(7, 7, 7);
+    font-size: 25px;
+    padding-top: 50px;
+}
+.mark
+{
+    color: rgb(13, 13, 14);
+    font-size: 20px;
+    margin-left: 100px;
+}

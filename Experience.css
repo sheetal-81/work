@@ -1,0 +1,258 @@
+body
+{
+    background-color: black;
+}
+a
+{
+    margin-left: 110px;
+    color: aliceblue;
+    font-size: 32px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.first
+{
+    position: absolute;
+    top: 150px;
+    margin-left: 20px;
+    background-color:aliceblue;
+    background-image: url("image/codeclause.jpeg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 170px 180px ;
+    width: 550px;
+    height:175px;
+    border: 5px solid orangered;
+    border-radius: 30px;
+}
+.first1 {
+    position: absolute;
+    color: black;
+    margin-top: 5px;
+    margin-left: 180px;
+    font-size: 22px;
+   font-family: 'Times New Roman', Times, serif;
+
+}
+.first2
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 50px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.first3
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 80px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.first4
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 110px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+
+.sec
+{
+    position: absolute;
+    top: 150px;
+    margin-left: 750px;
+    background-color: aliceblue;
+    background-image: url("image/codealpha.jpeg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 170px 180px ;
+    width: 550px;
+    height:175px;
+    border: 5px solid orangered;
+    border-radius: 30px;
+}
+.sec1 {
+    position: absolute;
+    color: black;
+    margin-top: 5px;
+    margin-left: 180px;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.sec2
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 50px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.sec3
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 80px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.sec4
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 110px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+
+.thr
+{
+    position: absolute;
+    top: 450px;
+    margin-left: 20px;
+    background-color: aliceblue;
+    background-image: url("image/digitalbhem.jpeg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 170px 180px ;
+    width: 550px;
+    height:175px;
+    border: 5px solid orangered;
+    border-radius: 30px;
+}
+.thr1 {
+    position: absolute;
+    color: black;
+    margin-top: 5px;
+    margin-left: 180px;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.thr2
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 50px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.thr3
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 80px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.thr4
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 110px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+
+.four
+{
+    position: absolute;
+    top: 450px;
+    margin-left: 750px;
+    background-color: aliceblue;
+    background-image: url("image/octanet.jpeg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 170px 180px ;
+    width: 550px;
+    height:175px;
+    border: 5px solid orangered;
+    border-radius: 30px;
+}
+.four1 {
+    position: absolute;
+    color: black;
+    margin-top: 5px;
+    margin-left: 180px;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.four2
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 50px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.four3
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 80px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.four4
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 110px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+
+.five
+{
+    position: absolute;
+    top: 750px;
+    margin-left: 20px;
+    background-color: aliceblue;
+    background-image: url("image/bharat.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 170px 180px ;
+    width: 550px;
+    height:175px;
+    border: 5px solid orangered;
+    border-radius: 30px;
+}
+.five1 {
+    position: absolute;
+    color: black;
+    margin-top: 5px;
+    margin-left: 180px;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.five2
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 50px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.five3
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 80px;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.five4
+{
+    position: absolute;
+    color: rgb(15, 15, 15);
+    margin-top: 110px;
+    margin-left: 180px;
+    font-size: 18px;
+}
